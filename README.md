@@ -1,0 +1,2 @@
+# DemandForecasting_BikeRental_R
+The project aims to help forecast the demand for the bike-sharing company based on the number of available attributes given in the data. This should help them to create an inventory and workforce-related strategy apart from financial and maintenance estimates. Also, because of the improving bike-sharing culture, the project can have an indirect impact on promoting health, environment, and other social impacts on society
